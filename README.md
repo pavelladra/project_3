@@ -8,7 +8,7 @@ Cílem je extrahování výsledků parlamentních voleb v roce 2017 pro vybraný
 Knihovny, které jsou použity v kódu jsou uložené v souboru `requirements.txt`. Pro instalaci doporučuji použít nové
 virtuální prostředí a s nainstalovaným manažerem spustit následovně:
 
-$ pip3 --version                    # ověřímm verzi manazeru
+$ pip3 --version                    # ověřím verzi manazeru
 $ pip3 install -r requirements.txt  # nainstalujeme knihovny
 
 
